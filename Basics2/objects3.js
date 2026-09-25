@@ -1,4 +1,4 @@
-// Object Restructuring 
+// Object De - structuring 
 const course = {
     name: "Someting",
     price: 999,
